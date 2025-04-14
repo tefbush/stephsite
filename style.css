@@ -1,0 +1,39 @@
+body {
+    background-image: url("images/tumblr_rr2un4Dnsu1y0ns5s_r1.mp4");
+    background-repeat: no-repeat;
+    background-position: fixed fill;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  
+  .content {
+
+    text-align: center;
+    font-family: Andale Mono, monospace;
+    position: sticky;
+    top: 270px;
+    margin-left: 270px;
+    width: 300px;
+    background-color: green;
+    padding: 30px;
+    border: 2px solid #4CAF50;
+    /*
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;*/
+  }
+  
+
